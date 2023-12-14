@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vz59UbJRTUQ83ENvgwWeRTGS5SGvwnpFiwitQnzz6AbZvlsO8VPT0qAHQQmYG147kVfLUCjOFFzzGlvv80oPg==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\7sem\\Clinic\\Clinic\\Clinic.UI\\Clinic.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igrea\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
